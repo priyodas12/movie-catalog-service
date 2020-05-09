@@ -1,0 +1,13 @@
+server:
+  port: 9500
+
+spring:
+  application:
+    name: movie-catalog-service
+  output:
+    ansi:
+      enabled: always
+
+logging:
+  level:
+    root: debug
